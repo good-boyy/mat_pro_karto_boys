@@ -101,5 +101,3 @@ result <- paste(H, D, sep = "\n")
 
 cat(result)
 
-hodnoty_x
-hodnoty_x[1:n]
